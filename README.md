@@ -2,11 +2,11 @@
 <h3 align="center">Entusiasta em tecnologia, sempre buscando aprender mais no mundo devs🚀</h3>  
   
   
-- 🌱 I’m currently learning **Javascript**  
+- 🌱 I’m currently learning **Javascript e ReactJS**  
   
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** **ReactJS**
   
-- 📫 How to reach me **sararocha878@gmail.com**  
+- 📫 How to reach me **sara_rocha99@hotmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
