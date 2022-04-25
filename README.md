@@ -14,7 +14,7 @@
 	<img align="center"
 	src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sara-rocha-3b979114b" height="40" width="40" />
 	</a>  
-	<a href="https://instagram.com/sararchh" target="blank">
+	<a href="https://instagram.com/sara.tsx" target="blank">
 	<img align="center"
 	src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="sararchh" height="40" width="40" />
 </a> 
