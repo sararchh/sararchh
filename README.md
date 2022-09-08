@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sara Rocha Oliveira</h1>  
+<h1 align="center">Hi 👋, I'm Sara Rocha Oliveira |
+Software Engineer | Desenvolvedor FrontEnd | FullStack | BackEnd | Des | ReactJs | NextJs | TypeScript | JavaScript | NodeJs</h1>  
 <h3 align="center">Entusiasta em tecnologia, sempre buscando aprender mais no mundo devs🚀</h3>  
   
   
