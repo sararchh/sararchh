@@ -9,6 +9,8 @@ Software Engineer | Desenvolvedor FullStack | ReactJs | NextJs | TypeScript | Ja
 - 💬 Ask me about **Javascript** **ReactJS**
   
 - 📫 How to reach me **sara_rocha99@hotmail.com**  
+
+- LinkeDin:  https://www.linkedin.com/in/sararchh 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
