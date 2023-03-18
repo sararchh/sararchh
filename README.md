@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sara Rocha Oliveira </h1>  
-<h2>
-Software Engineer | Desenvolvedor FullStack | ReactJs | NextJs | TypeScript | JavaScript | NodeJs</h2>
+<h1 align="center">Hi 👋, I'm Sara Rocha Oliveira - Software Engineer  </h1>  
+
 <h3 align="center">Entusiasta em tecnologia, sempre buscando aprender mais no mundo devs🚀</h3>  
 
 <p>
@@ -14,13 +13,10 @@ Como desenvolvedora consciente da importância de testes em projetos de software
 
 Estou animada para continuar aprendendo e trabalhando em projetos desafiadores, aplicando minhas habilidades em conjunto com outras pessoas para criar soluções de alta qualidade para os usuários.
 </p>
-
-
-- LinkedIn:  https://www.linkedin.com/in/sararchh 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/sara-rocha-3b979114b" target="blank">
+<a href="https://www.linkedin.com/in/sararchh " target="blank">
 	<img align="center"
 	src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="sara-rocha-3b979114b" height="40" width="40" />
 	</a>  
