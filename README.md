@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara Rocha Oliveira - Software Engineer  </h1>  
+<h1 align="center">Hi 👋, Sou Sara Rocha Oliveira - Software Engineer  </h1>  
 
 <h3 align="center">Entusiasta em tecnologia, sempre buscando aprender mais no mundo devs🚀</h3>  
 
@@ -14,7 +14,7 @@ Como desenvolvedora consciente da importância de testes em projetos de software
 Estou animada para continuar aprendendo e trabalhando em projetos desafiadores, aplicando minhas habilidades em conjunto com outras pessoas para criar soluções de alta qualidade para os usuários.
 </p>
   
-<h3 align="left">Connect with me:</h3>  
+<h3 align="left">Conecte:</h3>  
 <p align="left">  
 <a href="https://www.linkedin.com/in/sararchh " target="blank">
 	<img align="center"
