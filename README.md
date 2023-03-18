@@ -6,7 +6,7 @@ Software Engineer | Desenvolvedor FullStack | ReactJs | NextJs | TypeScript | Ja
 <p>
 Hello, meu nome é Sara e sou uma desenvolvedora Web FullStack, com forte experiência em tecnologias como JavaScript e TypeScript (ReactJS, NextJS e NodeJS), bem como em bancos de dados, incluindo PostgresSQL, MongoDB e Firebase.
 
-Durante o último ano, intensifiquei meus estudos e me concentrei na formação DEV FullStack da Driven para aprimorar minhas habilidades e melhorar meu conjunto de competências.
+Durante o último ano, intensifiquei meus estudos e me concentrei na formação DEV FullStack da [Driven]([https://www.driven.com.br/]) para aprimorar minhas habilidades e melhorar meu conjunto de competências.
 
 Sou graduada em Análise e Desenvolvimento de Sistemas, o que me permitiu adquirir um amplo conjunto de habilidades, incluindo o uso de Sass, CSS e styled-components para estilização de páginas da web, e Git para controle de versionamento de código. Além disso, sou experiente no uso da biblioteca ChakraUI e TailwindCSS, que me permite desenvolver interfaces de usuário modernas e elegantes.
 
