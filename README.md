@@ -4,7 +4,7 @@ Software Engineer | Desenvolvedor FullStack | ReactJs | NextJs | TypeScript | Ja
 <h3 align="center">Entusiasta em tecnologia, sempre buscando aprender mais no mundo devs🚀</h3>  
 
 <p>
-Hello, meu nome é Sara e sou uma desenvolvedora Web FullStack, com forte experiência em tecnologias como JavaScript e TypeScript (ReactJS, NextJS e NodeJS), bem como em bancos de dados, incluindo PostgresSQL, MongoDB e Firebase.
+Hello, meu nome é Sara e sou uma desenvolvedora Web FullStack, com forte experiência em tecnologias como [JavaScript](https://www.javascript.com/) e [TypeScript](https://www.typescriptlang.org/) (ReactJS, NextJS e NodeJS), bem como em bancos de dados, incluindo PostgresSQL, MongoDB e Firebase.
 
 Durante o último ano, intensifiquei meus estudos e me concentrei na formação DEV FullStack da  [Driven](https://www.driven.com.br/) para aprimorar minhas habilidades e melhorar meu conjunto de competências.
 
@@ -14,15 +14,9 @@ Como desenvolvedora consciente da importância de testes em projetos de software
 
 Estou animada para continuar aprendendo e trabalhando em projetos desafiadores, aplicando minhas habilidades em conjunto com outras pessoas para criar soluções de alta qualidade para os usuários.
 </p>
-  
-  
-- 🌱 I’m currently learning **Javascript e ReactJS**  
-  
-- 💬 Ask me about **Javascript** **ReactJS**
-  
-- 📫 How to reach me **sara_rocha99@hotmail.com**  
 
-- LinkeDin:  https://www.linkedin.com/in/sararchh 
+
+- LinkedIn:  https://www.linkedin.com/in/sararchh 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
