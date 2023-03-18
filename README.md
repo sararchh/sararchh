@@ -39,7 +39,7 @@ Estou animada para continuar aprendendo e trabalhando em projetos desafiadores, 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://firebase.google.com/?hl=pt-br)
+![Firebase]((https://img.shields.io/badge/Firebase-%23316192.svg?style=flat&logo=firebase&logoColor=white)
 <br />
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
