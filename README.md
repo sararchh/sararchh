@@ -40,6 +40,7 @@ Estou animada para continuar aprendendo e trabalhando em projetos desafiadores, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF9900.svg?style=flat&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382c.svg?style=flat&logo=redis&logoColor=white)
 <br />
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
