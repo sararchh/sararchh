@@ -3,15 +3,19 @@
 <h3 align="center">Entusiasta em tecnologia, sempre buscando aprender mais no mundo devs🚀</h3>  
 
 <p>
-Hello, meu nome é Sara e sou uma desenvolvedora FullStack, com forte experiência em tecnologias como <a href="https://www.javascript.com/">JavaScript</a> e <a href="https://www.typescriptlang.org/">TypeScript</a> (ReactJS, Angular, NextJS e NodeJS), bem como em bancos de dados, incluindo PostgresSQL, MongoDB e Firebase.
-
-Durante o último ano, intensifiquei meus estudos e me concentrei na formação DEV FullStack da  [Driven](https://www.driven.com.br/) para aprimorar minhas habilidades e melhorar meu conjunto de competências.
+Sou Desenvolvedora FullStack, com forte experiência em tecnologias como JavaScript e TypeScript (ReactJS, NextJS, Angular e NodeJS), bem como em bancos de dados, incluindo PostgresSQL, MongoDB e Firebase.
 
 Sou graduada em Análise e Desenvolvimento de Sistemas, o que me permitiu adquirir um amplo conjunto de habilidades, incluindo o uso de Sass, CSS e styled-components para estilização de páginas da web, e Git para controle de versionamento de código. Além disso, sou experiente no uso da biblioteca ChakraUI e TailwindCSS, que me permite desenvolver interfaces de usuário modernas e elegantes.
 
 Como desenvolvedora consciente da importância de testes em projetos de software, também tenho conhecimento em testes utilizando o Jest, que me permite garantir a qualidade e confiabilidade do código que desenvolvo.
 
 Estou animada para continuar aprendendo e trabalhando em projetos desafiadores, aplicando minhas habilidades em conjunto com outras pessoas para criar soluções de alta qualidade para os usuários.
+
+Entre em contato comigo: 
+sararocha878@gmail.com
+
+Meu Github:
+https://github.com/sararchh
 </p>
   
 <h3 align="left">Conecte:</h3>  
